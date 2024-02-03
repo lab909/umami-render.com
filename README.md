@@ -1,3 +1,7 @@
+**CLONED FROM https://github.com/thomascenni/umami**
+
+
+
 # Umami on Render
 
 This repository allows you to deploy the latest <a href="https://umami.is/" target="_blank">Umami software</a> (v2.8.0) on Render.
